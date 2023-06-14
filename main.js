@@ -1,1 +1,3 @@
-function hello() {}
+function hello() {
+  const name = "gaurav";
+}
