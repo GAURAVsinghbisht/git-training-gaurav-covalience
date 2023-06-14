@@ -1,4 +1,4 @@
 function hello() {
-    const name = 'gaurav'
+    const name = 'gaurav singh'
     console.log(name)
 }
