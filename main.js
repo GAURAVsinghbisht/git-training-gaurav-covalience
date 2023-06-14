@@ -1,5 +1,5 @@
 function hello() {
-  const name = "Gurman";
+  const name = "Gurman Singh";
 
   console.log(name);
 }
